@@ -10,6 +10,8 @@ With these points in mind, in this Challenge you’ll set yourself up for future
 
 Let’s look at what a user story written from the perspective of a hiring manager might look like. As you might remember, we follow the AS AN / I WANT / SO THAT format.
 
+Access to my portfolio through the [following link](https://ggariv.github.io/My-portfolio/)
+
 ## User Story
 
 ```
